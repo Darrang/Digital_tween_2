@@ -4,7 +4,7 @@ void printBoyoung(){
 }
 
 int main(){
-	printf("Hello, world!");
+	printf("Bye, world!");
 	printBoyoung();
 	return 0;
 }
